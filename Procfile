@@ -1,1 +1,1 @@
-web: gunicorn app:appfire
+web: gunicorn appfire:app
